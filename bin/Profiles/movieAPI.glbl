@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>movieAPI</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>400</initValue>
+      <name>error_400</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Unauthorized access code and message on responses</description>
+      <initValue>401</initValue>
+      <name>error_401</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>successfully request</description>
+      <initValue>200</initValue>
+      <name>ok_200</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>500</initValue>
+      <name>error_500</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>host of movie db</description>
+      <initValue>'api.themoviedb.org'</initValue>
+      <name>HOST_API</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>path to genres</description>
+      <initValue>'/3/genre/movie/list'</initValue>
+      <name>PATH_GENRE_LIST</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>path to movie</description>
+      <initValue>'/3/movie/551'</initValue>
+      <name>PATH_MOVIE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>api credentials</description>
+      <initValue>'b59556b3a71343ce8fffafe1337cb080'</initValue>
+      <name>themoviedbToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>json test data</description>
+      <initValue>'Data Files\\\\jsons'</initValue>
+      <name>tempDir</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>discover movie</description>
+      <initValue>'/3/discover/movie'</initValue>
+      <name>PATH_DISCOVER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>422 Unprocessable Entity</description>
+      <initValue>422</initValue>
+      <name>error_422</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/3/2/1'</initValue>
+      <name>PATH_INVALID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'404'</initValue>
+      <name>error_404</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>2018</initValue>
+      <name>currYear</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/3/movie/movie_id'</initValue>
+      <name>PATH_SEARCH_MOVIE</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

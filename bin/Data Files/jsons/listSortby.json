@@ -1,0 +1,36 @@
+{
+    "sortby": [
+        {
+            "id": 1,
+            "name": "popularity.asc"
+        },
+        {
+            "id": 2,
+            "name": "popularity.desc"
+        },
+        {
+            "id": 3,
+            "name": "vote_average.asc"
+        },
+        {
+            "id": 4,
+            "name": "vote_average.desc"
+        },
+        {
+            "id": 5,
+            "name": "primary_release_date.asc"
+        },
+        {
+            "id": 6,
+            "name": "primary_release_date.desc"
+        },
+        {
+            "id": 7,
+            "name": "title.asc"
+        },
+        {
+            "id": 8,
+            "name": "title.desc"
+        }
+    ]
+}
